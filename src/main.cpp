@@ -1,3 +1,4 @@
+#include <Arduino.h>
 #include "main.h"
 
 // Debugger object used as a wrapper for all serial output, externed in `globals.h`
