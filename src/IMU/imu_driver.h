@@ -5,7 +5,6 @@
 #include "../globals.h"
 #include "../SensorObject/sensor.h"
 
-#define IMU_CS 15
 
 /**
  * Object to hold data from the IMU

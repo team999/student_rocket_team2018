@@ -20,6 +20,7 @@ extern Debugger debugger;
 #endif
 
 #define SPI_SCK 27
+#define IMU_CS 15
 #define SERIAL_BAUD_RATE 9600
 #define LISTLENGTH 22
 
